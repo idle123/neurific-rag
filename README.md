@@ -1,2 +1,2 @@
 # neurific-rag
-Document Search with Military-Grade Security
+Document search that works on-prem. Data never leaves your premises.
